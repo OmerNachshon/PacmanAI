@@ -1,0 +1,8 @@
+﻿  first.cpp
+p:\c++ projects\pacman\firstexample\first.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+p:\c++ projects\pacman\firstexample\first.cpp(165): warning C4018: '<': signed/unsigned mismatch
+p:\c++ projects\pacman\firstexample\first.cpp(167): warning C4018: '<': signed/unsigned mismatch
+p:\c++ projects\pacman\firstexample\first.cpp(379): warning C4473: 'printf' : not enough arguments passed for format string
+  p:\c++ projects\pacman\firstexample\first.cpp(379): note: placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+  p:\c++ projects\pacman\firstexample\first.cpp(379): note: the missing variadic argument 1 is required by format string '%d'
+  FirstExample.vcxproj -> P:\c++ projects\Pacman\Debug\FirstExample.exe
