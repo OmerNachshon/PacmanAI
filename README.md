@@ -6,7 +6,8 @@ pacman vs 3 monsters
 
 Coins collecting & role switch
 
-[Uploading pacman_collect_coins .gif…]()
+![pacman_collect_coins ](https://user-images.githubusercontent.com/87577792/200446493-abfe394a-4d06-452a-a7b0-4939bf397f35.gif)
+
 
 Role switch twice 
 
